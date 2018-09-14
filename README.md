@@ -23,7 +23,7 @@ The example code is in Python ([version 3.6.6](https://www.python.org/downloads/
 
 ## File Descriptions
 
-* ./data/ contains the various datasets.
+* ./costarican/ contains the various packages.
 * ./CRHPL.ipynb is a Jupyter notebook containing the work I have done.
 
 ## References & Citations
