@@ -1,6 +1,7 @@
 # Required Libraries
 import matplotlib.pyplot as plt
 
+# Function for value_counts plot
 def plot_value_counts(df, col, heads_only = False):
     """Plot value counts of a column, optionally with only the heads of a household
     Parameters
