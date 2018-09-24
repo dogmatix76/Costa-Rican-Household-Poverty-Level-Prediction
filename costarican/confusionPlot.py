@@ -2,6 +2,7 @@
 from sklearn.metrics import confusion_matrix
 import itertools
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Function to plot confusion matrix
 def confusion_matrix_plot(cm, classes,
